@@ -1,16 +1,11 @@
-# wassapp
+WassApp
 
-A new Flutter project.
+A Flutter-based group chat mobile application with Dart as the programming language.
+Established a seamless and connected chat experience, ensuring all users can actively engage and communicate within a unified environment.
+Implemented real-time messaging functionality, allowing instant exchange of messages.
+Utilized Firebase Firestore as the back-end for secure account creation, reliable data storage, and efficient message delivery.
 
-## Getting Started
+Google Drive link to WassApp APK -> https://drive.google.com/file/d/1wyzuHPRGTkiXgNPgYuszRz9pg11ea0sd/view
+Demo video -> https://www.youtube.com/watch?v=bkN0nfbzAW0
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
