@@ -1,4 +1,4 @@
-#WassApp
+# WassApp
 
 - A Flutter-based group chat mobile application with Dart as the programming language.
 - Established a seamless and connected chat experience, ensuring all users can actively engage and 
